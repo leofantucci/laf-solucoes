@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "tA2a0wy+qhk=",
+  "success": true,
+  "projectFilePath": "/home/leof/RiderProjects/laf-solucoes/laf-solucoes/laf-solucoes.csproj",
+  "expectedPackageFiles": [
+    "/home/leof/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.11/microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512",
+    "/home/leof/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Resource temporarily unavailable (api.nuget.org:443)",
+      "projectPath": "/home/leof/RiderProjects/laf-solucoes/laf-solucoes/laf-solucoes.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/leof/RiderProjects/laf-solucoes/laf-solucoes/laf-solucoes.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

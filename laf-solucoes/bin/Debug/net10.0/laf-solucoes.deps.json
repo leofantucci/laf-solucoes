@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "laf-solucoes/1.0.0": {
+        "runtime": {
+          "laf-solucoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laf-solucoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
